@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min@deno/mod.js';
+import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min@v0.1.0-deno/mod.js';
 ```
 
 #### min( x )
@@ -89,7 +89,7 @@ The function has the following parameters:
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min@deno/mod.js';
+import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min@v0.1.0-deno/mod.js';
 
 var x = discreteUniform( 10, -50, 50, {
     'dtype': 'float64'
