@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-27)
+## Unreleased (2026-08-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`22fe7a6`](https://github.com/stdlib-js/stdlib/commit/22fe7a64a77d8fecc54da41dac870f2249b0c731) - **bench:** update benchmarks to use decimal literals [(#13849)](https://github.com/stdlib-js/stdlib/pull/13849) _(by Karan Anand)_
 -   [`1ec3451`](https://github.com/stdlib-js/stdlib/commit/1ec34512653d2ce74a4b4fe9ad2a6392b56e4a93) - **bench:** refactor to use string interpolation in `stats/array/min` [(#10785)](https://github.com/stdlib-js/stdlib/pull/10785) _(by Aniket Sonawane)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aniket Sonawane
+-   Karan Anand
 
 </section>
 
